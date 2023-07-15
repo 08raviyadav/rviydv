@@ -16,7 +16,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/08raviyadav/raviydv). Thanks!
+You can fork this repo to modify and make changes of your own.(https://github.com/08raviyadav/raviydv). Thanks!
 
 ## Built With
 
